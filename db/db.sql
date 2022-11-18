@@ -8,7 +8,7 @@ CREATE TABLE stores (
   name VARCHAR(50) NOT NULL,
   address VARCHAR(50) NOT NULL,
   phone VARCHAR(50) NULL,
-  coordenates VARCHAR(50) NOT NULL,
+  coordenates VARCHAR(50) NULL,
   loc VARCHAR(50) NOT NULL,
   type VARCHAR(50) NOT NULL,
   state VARCHAR(50) NOT NULL,

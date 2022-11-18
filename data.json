@@ -1,0 +1,1452 @@
+[
+  {
+    "id": 1,
+    "name": "Farmacias Lider",
+    "address": "Av. General Paz 258",
+    "phone": "351-540-0181",
+    "coordenates": "-31.412297, -64.185343",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasLider"
+  },
+  {
+    "id": 2,
+    "name": "Farmacias Lider",
+    "address": "Humberto Primo 208",
+    "phone": "351-403-1285",
+    "coordenates": "-31.409250, -64.184452",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasLider"
+  },
+  {
+    "id": 3,
+    "name": "Farmacias Lider",
+    "address": "Belgrano 66",
+    "phone": "351-402-9924",
+    "coordenates": "-31.415466, -64.188639",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasLider"
+  },
+  {
+    "id": 4,
+    "name": "Farmacias Lider",
+    "address": "Santa Rosa 794",
+    "phone": "351-402-7227",
+    "coordenates": "-31.409396, -64.193344",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasLider"
+  },
+  {
+    "id": 5,
+    "name": "Farmacias Lider",
+    "address": "Santa Rosa 1565",
+    "phone": "351-611-4350",
+    "coordenates": "-31.406312, -64.203893",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasLider"
+  },
+  {
+    "id": 6,
+    "name": "Farmacias Lider",
+    "address": "Laprida 41",
+    "phone": "351-611-4312",
+    "coordenates": "-31.424189, -64.188168",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasLider"
+  },
+  {
+    "id": 7,
+    "name": "Farmacias Lider",
+    "address": "Oncativo 1366",
+    "phone": "351-611-3307",
+    "coordenates": "-31.409453, -64.166671",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasLider"
+  },
+  {
+    "id": 8,
+    "name": "Farmacias Lider",
+    "address": "Av. O'Higgins 5845",
+    "phone": "351-403-7281",
+    "coordenates": "-31.480382, -64.168368",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasLider"
+  },
+  {
+    "id": 9,
+    "name": "Farmacias Lider",
+    "address": "Av. Rafael Núñez 4220",
+    "phone": "351-695-8586",
+    "coordenates": "-31.369349, -64.232093",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasLider"
+  },
+  {
+    "id": 10,
+    "name": "Farmacias Lider",
+    "address": "Jujuy 520",
+    "phone": "351-611-2178",
+    "coordenates": "-31.410197, -64.188306",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasLider"
+  },
+  {
+    "id": 11,
+    "name": "Farmacias Lider",
+    "address": "Av. Colón 820",
+    "phone": "351-672-2244",
+    "coordenates": "-31.410197, -64.194060",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasLider"
+  },
+  {
+    "id": 12,
+    "name": "Farmacias Lider",
+    "address": "Av. Pablo Richieri 3316",
+    "phone": "351-542-9978",
+    "coordenates": "-31.451174, -64.176315",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasLider"
+  },
+  {
+    "id": 13,
+    "name": "Farmacias Lider",
+    "address": "Santa Rosa 167",
+    "phone": "351-403-3308",
+    "coordenates": "-31.411776, -64.185023",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasLider"
+  },
+  {
+    "id": 14,
+    "name": "Farmacias Red",
+    "address": "Duarte Quiróz 1400",
+    "phone": "351-482-8101",
+    "coordenates": "-31.412952, -64.204534",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasRed"
+  },
+  {
+    "id": 15,
+    "name": "Farmacias Red",
+    "address": "Av. Pedro Laplace 5890",
+    "phone": "0810-4444-729",
+    "coordenates": "-31.357990, -64.241061",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasRed"
+  },
+  {
+    "id": 16,
+    "name": "Farmacias Red",
+    "address": "Rafael Núñez 3686",
+    "phone": "351-482-5358",
+    "coordenates": "-31.376383, -64.225938",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasRed"
+  },
+  {
+    "id": 17,
+    "name": "Farmacias Red",
+    "address": "Av. Recta Martinolli 6137",
+    "phone": "3543-448-880",
+    "coordenates": "-31.349722, -64.252448",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasRed"
+  },
+  {
+    "id": 18,
+    "name": "Farmacias Red",
+    "address": "Emilio Lamarca 4135",
+    "phone": "351-366-6948",
+    "coordenates": "-31.382147, -64.243485",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasRed"
+  },
+  {
+    "id": 19,
+    "name": "Farmacias Red",
+    "address": "Recta Martinolli 8853",
+    "phone": "351-203-1267",
+    "coordenates": "-31.344123, -64.287355",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasRed"
+  },
+  {
+    "id": 20,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Av. Pablo Cabrera 4650",
+    "phone": "",
+    "coordenates": "-31.361922, -64.203945",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 21,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Av. Donato Alvarez 7914",
+    "phone": "",
+    "coordenates": "-31.330787, -64.264065",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 22,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Av. Leandro Alem 1570",
+    "phone": "",
+    "coordenates": "-31.386521, -64.159901",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 23,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Av. Carlos Gauss 5904",
+    "phone": "",
+    "coordenates": "-31.353769, -64.249622",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 24,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Congreso 5476",
+    "phone": "",
+    "coordenates": "-31.474231, -64.225256",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 25,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Av. Renault 1916",
+    "phone": "",
+    "coordenates": "-31.472613, -64.232027",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 26,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Defensa 1753",
+    "phone": "",
+    "coordenates": "-31.467256, -64.223478",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 27,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Av. Vélez Sarsfield 4101",
+    "phone": "",
+    "coordenates": "-31.457493, -64.199571",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 28,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Av. Vélez Sarsfield 3426",
+    "phone": "",
+    "coordenates": "-31.449283, -64.199764",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 29,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Leartes 2484",
+    "phone": "",
+    "coordenates": "-31.438997, -64.139213",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 30,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Rosales 5395",
+    "phone": "",
+    "coordenates": "-31.430934, -64.116986",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 31,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Av. Fuerza Aérea 3735",
+    "phone": "",
+    "coordenates": "-31.432405, -64.237431",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 32,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Naciones Unidas 4927",
+    "phone": "",
+    "coordenates": "-31.441214, -64.207402",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 33,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Av. Fuerza Aérea 4730",
+    "phone": "",
+    "coordenates": "-31.432513, -64.248224",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 34,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Av. Fuerza Aérea 2804",
+    "phone": "",
+    "coordenates": "-31.431109, -64.225906",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 35,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Justo José Urquiza 381",
+    "phone": "",
+    "coordenates": "-31.424549, -63.045146",
+    "loc": "Arroyito",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 36,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Ruta C 45 km 1",
+    "phone": "",
+    "coordenates": "-31.473867, -64.430779",
+    "loc": "Malagueño",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 37,
+    "name": "Farmacias Sánchez Antoniolli",
+    "address": "Av. Carcano 427",
+    "phone": "",
+    "coordenates": "-31.429126, -64.496996",
+    "loc": "Carlos Paz",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasSanchezAntonioli"
+  },
+  {
+    "id": 38,
+    "name": "Farmacias General Paz",
+    "address": "Av. 24 de Septiembre 802",
+    "phone": "351-542-5470",
+    "coordenates": "-31.415206, -64.171839",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasGeneralPaz"
+  },
+  {
+    "id": 39,
+    "name": "Farmacias General Paz",
+    "address": "Libertad 207",
+    "phone": "351-289-3136",
+    "coordenates": "-31.408430, -64.177830",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasGeneralPaz"
+  },
+  {
+    "id": 40,
+    "name": "Farmacias General Paz",
+    "address": "Roma 557",
+    "phone": "351-542-5472",
+    "coordenates": "-31.409553, -64.164724",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasGeneralPaz"
+  },
+  {
+    "id": 41,
+    "name": "Farmacias General Paz",
+    "address": "Humberto 1° esq. Tucumán",
+    "phone": "351-542-5474",
+    "coordenates": "-31.408770, -64.185667",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasGeneralPaz"
+  },
+  {
+    "id": 42,
+    "name": "Farmacias General Paz",
+    "address": "Bv. Chacabuco 787",
+    "phone": "351-542-5512",
+    "coordenates": "-31.426374, -64.183842",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasGeneralPaz"
+  },
+  {
+    "id": 43,
+    "name": "Farmacias General Paz",
+    "address": "Av. Colón 745",
+    "phone": "351-541-3231",
+    "coordenates": "-31.410691, -64.193406",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasGeneralPaz"
+  },
+  {
+    "id": 44,
+    "name": "Farmacias General Paz",
+    "address": "Sarmiento 436",
+    "phone": "351-541-1999",
+    "coordenates": "-31.094009, -64.482027",
+    "loc": "La Falda",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasGeneralPaz"
+  },
+  {
+    "id": 45,
+    "name": "Farmacias General Paz",
+    "address": "Lucas V. Córdoba 240",
+    "phone": "3547-586-849",
+    "coordenates": "-31.654952, -64.434216",
+    "loc": "Alta Gracia",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasGeneralPaz"
+  },
+  {
+    "id": 46,
+    "name": "Farmacia Lamarca",
+    "address": "Av. Lamarca 3918",
+    "phone": "351-482-5206",
+    "coordenates": "-31.383890, -64.239699",
+    "loc": "Córdoba Capital",
+    "type": "farmacias",
+    "state": "cordoba",
+    "brand": "farmaciasGenericas"
+  },
+  {
+    "id": 47,
+    "name": "Farmacia Ciudad",
+    "address": "Av. Pablo Richieri 2657",
+    "phone": "351-464-7227",
+    "coordenates": "-31.441894, -64.176762",
+    "loc": "Córdoba Capital",
+    "state": "cordoba",
+    "brand": "farmaciasGenericas"
+  },
+  {
+    "id": 48,
+    "name": "Farmacia Cristo Redentor",
+    "address": "Av. Nores Martínez 2836",
+    "phone": "351-464-5655",
+    "coordenates": "-31.444584, -64.182843",
+    "loc": "Córdoba Capital",
+    "state": "cordoba",
+    "brand": "farmaciasGenericas"
+  },
+  {
+    "id": 49,
+    "name": "Farmacias Red",
+    "address": "Santa Fe 124",
+    "phone": "362-445-1962",
+    "coordenates": "-27.448402, -58.985760",
+    "loc": "Resistencia",
+    "type": "farmacias",
+    "state": "chaco",
+    "brand": "farmaciasRed"
+  },
+  {
+    "id": 50,
+    "name": "Farmacias Red",
+    "address": "San Martín 2275",
+    "phone": "376-442-7222",
+    "coordenates": "-27.365593, -55.898499",
+    "loc": "Posadas",
+    "type": "farmacias",
+    "state": "misiones",
+    "brand": "farmaciasRed"
+  },
+  {
+    "id": 51,
+    "name": "Farmacias Red",
+    "address": "Felix de Azara y Entre Ríos",
+    "phone": "376-443-1122",
+    "coordenates": "-27.369743, -55.894005",
+    "loc": "Posadas",
+    "type": "farmacias",
+    "state": "misiones",
+    "brand": "farmaciasRed"
+  },
+  {
+    "id": 52,
+    "name": "Farmacias General Paz",
+    "address": "HiperLibertad L.16",
+    "phone": "376-477-6037",
+    "coordenates": "-27.401787, -55.917162",
+    "loc": "Posadas",
+    "type": "farmacias",
+    "state": "misiones",
+    "brand": "farmaciasGeneralPaz"
+  },
+  {
+    "id": 53,
+    "name": "Óptica",
+    "address": "Av. Rafael Núñez 4684",
+    "coordenates": "-31.362126, -64.237360",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 54,
+    "name": "Óptica Megalent",
+    "address": "9 de julio 460",
+    "coordenates": "-31.412917, -64.189655",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 55,
+    "name": "Óptica",
+    "address": "Bv. Los Alemanes 5020",
+    "coordenates": "-31.343297, -64.234090",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 56,
+    "name": "Óptica Elvira",
+    "address": "Deán Funes 328",
+    "coordenates": "-31.414680, -64.188426",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 57,
+    "name": "Óptica",
+    "address": "Mariano Fragueiro 2143",
+    "coordenates": "-31.390626, -64.183874",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 58,
+    "name": "Óptica",
+    "address": "Av. Alvarado 3654",
+    "coordenates": "-31.455809, -64.132416",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 59,
+    "name": "Óptica",
+    "address": "27 de abril 230",
+    "coordenates": "-31.416183, -64.187686",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 60,
+    "name": "Óptica Clinivisión",
+    "address": "Buenos Aires 1022",
+    "coordenates": "-31.428058, -64.187612",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 61,
+    "name": "Óptica Mediterránea",
+    "address": "Belgrano 55",
+    "coordenates": "-31.415323, -64.188309",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 62,
+    "name": "Óptica",
+    "address": "Caseros 561",
+    "coordenates": "-31.416668, -64.192980",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 63,
+    "name": "Óptica Bustos",
+    "address": "Carlos Gimnénez 64",
+    "coordenates": "-31.366866, -64.165523",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 64,
+    "name": "Óptica",
+    "address": "Caseros 329",
+    "coordenates": "-31.417093, -64.189560",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 65,
+    "name": "Óptica",
+    "address": "Ricardo López Cabrera 2950",
+    "coordenates": "-31.461621, -64.157627",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 66,
+    "name": "Óptica",
+    "address": "Oncativo 1311",
+    "coordenates": "-31.409374, -64.167411",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 67,
+    "name": "Óptica Multiglas",
+    "address": "Santa Rosa 367",
+    "coordenates": "-31.411209, -64.187479",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 68,
+    "name": "Óptica",
+    "address": "Sucre 45",
+    "coordenates": "-31.413948, -64.189329",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 69,
+    "name": "Óptica",
+    "address": "Av. Vélez Sársfield",
+    "coordenates": "",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 70,
+    "name": "Óptica",
+    "address": "9 de julio 714",
+    "coordenates": "-31.411972, -64.193337",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 71,
+    "name": "Óptica",
+    "address": "Pje. Güemes 969",
+    "coordenates": "-31.404494, -64.164425",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 72,
+    "name": "Óptica",
+    "address": "Mariano Fragueiro 2070",
+    "coordenates": "-31.391730, -64.183847",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 73,
+    "name": "Óptica Valle Visión",
+    "address": "Deán Funes 398",
+    "coordenates": "-31.414428, -64.189268",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 74,
+    "name": "Óptica Ver Bien",
+    "address": "Av. Colón 3500",
+    "coordenates": "",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 75,
+    "name": "Óptica Planet Gafas",
+    "address": "Liberta 1051 loc. 430",
+    "coordenates": "",
+    "loc": "Córdoba Capital",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 76,
+    "name": "Óptica",
+    "address": "Salvador Acavuzzo 125",
+    "coordenates": "-32.197446, -64.253454",
+    "loc": "Almafuerte",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 77,
+    "name": "Óptica +Visión",
+    "address": "Urquiza 77",
+    "coordenates": "-31.658663, -64.429680",
+    "loc": "Alta Gracia",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 78,
+    "name": "Óptica",
+    "address": "Tristán Cornejo 301",
+    "coordenates": "-31.013476, -62.666089",
+    "loc": "Balnearia",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 79,
+    "name": "Óptica",
+    "address": "Bv. 9 de julio 1157",
+    "coordenates": "-31.168285, -62.103229",
+    "loc": "Freyre",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 80,
+    "name": "Óptica Bienteveo",
+    "address": "Juan B. Justo 9688",
+    "coordenates": "-31.311319, -64.175886",
+    "loc": "Guiñazú",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 81,
+    "name": "Óptica",
+    "address": "San Martín 234",
+    "coordenates": "-32.427656, -63.734096",
+    "loc": "Hernando",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 82,
+    "name": "Óptica",
+    "address": "Rivadavia 150",
+    "coordenates": "-31.414764, -64.181803",
+    "loc": "La Cumbre",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 83,
+    "name": "Óptica",
+    "address": "Rivadavia 906",
+    "coordenates": "-30.895415, -63.000701",
+    "loc": "La Para",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 84,
+    "name": "Óptica",
+    "address": "9 de julio 342",
+    "coordenates": "-31.779273, -63.805960",
+    "loc": "Laguna Larga",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 85,
+    "name": "Óptica",
+    "address": "J. B. Alberdi 1743",
+    "coordenates": "-31.676835, -63.883517",
+    "loc": "Pilar",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 86,
+    "name": "Óptica",
+    "address": "Lamadrid esq. Belgrano",
+    "coordenates": "-33.124298, -64.344350",
+    "loc": "Río Cuarto",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 87,
+    "name": "Óptica",
+    "address": "Bélice 326",
+    "coordenates": "-31.653625, -63.897376",
+    "loc": "Río Segundo",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 88,
+    "name": "Óptica Infinity",
+    "address": "Sobremonte 887",
+    "coordenates": "-31.650746, -63.905952",
+    "loc": "Río Segundo",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 89,
+    "name": "Óptica",
+    "address": "Caseros 780",
+    "coordenates": "-31.151982, -63.402880",
+    "loc": "Santa Rosa de Río Primero",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 90,
+    "name": "Óptica",
+    "address": "Av. San Martín 502",
+    "coordenates": "-32.242852, -63.981798",
+    "loc": "Tancacha",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 91,
+    "name": "Óptica Passeri",
+    "address": "Av. Padre Mariani esq. Tablada",
+    "coordenates": "-31.293731, -64.292689",
+    "loc": "Villa Allende",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 92,
+    "name": "Óptica",
+    "address": "Av. Julio A. Roca 8",
+    "coordenates": "-31.977740, -64.559323",
+    "loc": "Villa General Belgrano",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 93,
+    "name": "Óptica Pérez",
+    "address": "Corrientes 1017",
+    "coordenates": "-32.412606, -63.243635",
+    "loc": "Villa María",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 94,
+    "name": "Óptica Optivisión",
+    "address": "9 de julio 1830",
+    "phone": "3468-472-842",
+    "coordenates": "-33.204706, -62.601392",
+    "loc": "Monte Maíz",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 95,
+    "name": "Óptica Carasa",
+    "address": "Córdoba 440",
+    "phone": "3537-425-550",
+    "coordenates": "-32.629779, -62.691859",
+    "loc": "Bell Ville",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 96,
+    "name": "Óptica Diez Décimas",
+    "address": "General Paz 342",
+    "phone": "3472-436-821",
+    "coordenates": "-32.662093, -62.298533",
+    "loc": "Leones",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 97,
+    "name": "Óptica Llamosas",
+    "address": "Jujuy 1449",
+    "phone": "3468-649-003",
+    "coordenates": "-33.205217, -62.602182",
+    "loc": "Monte Maíz",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 98,
+    "name": "Óptica Bertozzi",
+    "address": "Belgrano 853",
+    "phone": "3472-425-465",
+    "coordenates": "-32.696012, -62.103278",
+    "loc": "Marcos Juárez",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 99,
+    "name": "Óptica Canals",
+    "address": "Uriburu 553",
+    "phone": "3463-421-608",
+    "coordenates": "-31.482484, -64.206070",
+    "loc": "Canals",
+    "type": "opticas",
+    "state": "cordoba"
+  },
+  {
+    "id": 100,
+    "name": "Óptica Visual",
+    "address": "Pellegrini 350",
+    "phone": "3361-430-907",
+    "coordenates": "-33.335031, -60.219098",
+    "loc": "San Nicolás",
+    "type": "opticas",
+    "state": "buenosAires"
+  },
+  {
+    "id": 101,
+    "name": "Óptica Mutual Savio",
+    "address": "De La Nación 261",
+    "phone": "3364-427-886",
+    "coordenates": "-33.332437, -60.218775",
+    "loc": "San Nicolás",
+    "type": "opticas",
+    "state": "buenosAires"
+  },
+  {
+    "id": 102,
+    "name": "Óptica",
+    "address": "Rivadavia 880",
+    "coordenates": "-28.471754, -65.778101",
+    "loc": "San Fernando del Valle de Catamarca",
+    "type": "opticas",
+    "state": "catamarca"
+  },
+  {
+    "id": 103,
+    "name": "Óptica Pizzio",
+    "address": "Belgrano 131",
+    "phone": "3775-498-535",
+    "coordenates": "-31.416304, -64.188578",
+    "loc": "Mocoretá",
+    "type": "opticas",
+    "state": "corrientes"
+  },
+  {
+    "id": 104,
+    "name": "Óptica",
+    "address": "9 de julio 3715",
+    "coordenates": "-30.761778, -57.991836",
+    "loc": "Chajarí",
+    "type": "opticas",
+    "state": "entreRios"
+  },
+  {
+    "id": 105,
+    "name": "Óptica Cristal",
+    "address": "Av. Belgrano 1243",
+    "coordenates": "-30.758113, -57.980589",
+    "loc": "Chajarí",
+    "type": "opticas",
+    "state": "entreRios"
+  },
+  {
+    "id": 106,
+    "name": "Óptica",
+    "address": "Urquiza 1399",
+    "coordenates": "-30.759104, -57.984560",
+    "loc": "Chajarí",
+    "type": "opticas",
+    "state": "entreRios"
+  },
+  {
+    "id": 107,
+    "name": "Centro Óptico Pizzio",
+    "address": "San Martín 1110",
+    "coordenates": "-30.760330, -57.981548",
+    "loc": "Chajarí",
+    "type": "opticas",
+    "state": "entreRios"
+  },
+  {
+    "id": 108,
+    "name": "Óptica",
+    "address": "San Antonio 6",
+    "coordenates": "-33.146985, -59.312325",
+    "loc": "Gualeguay",
+    "type": "opticas",
+    "state": "entreRios"
+  },
+  {
+    "id": 109,
+    "name": "Óptica Reflejos",
+    "address": "Moreno 1170",
+    "coordenates": "-30.740312, -59.642024",
+    "loc": "La Paz",
+    "type": "opticas",
+    "state": "entreRios"
+  },
+  {
+    "id": 110,
+    "name": "Óptica",
+    "address": "Hipólito Yrigoyen 740",
+    "coordenates": "-31.663195, -59.902597",
+    "loc": "María Grande",
+    "type": "opticas",
+    "state": "entreRios"
+  },
+  {
+    "id": 111,
+    "name": "Óptica Ochoteco",
+    "address": "Alem 1192",
+    "coordenates": "-32.396024, -59.790358",
+    "loc": "Nogoyá",
+    "type": "opticas",
+    "state": "entreRios"
+  },
+  {
+    "id": 112,
+    "name": "Óptica",
+    "address": "San Juan 142",
+    "coordenates": "-31.731949, -60.526863",
+    "loc": "Paraná",
+    "type": "opticas",
+    "state": "entreRios"
+  },
+  {
+    "id": 113,
+    "name": "Óptica Santa Lucía",
+    "address": "Supremo Entrerrieno esq. Paraná",
+    "coordenates": "-30.946445, -59.787025",
+    "loc": "Santa Elena",
+    "type": "opticas",
+    "state": "entreRios"
+  },
+  {
+    "id": 114,
+    "name": "Óptica",
+    "address": "Av. Libertad 368",
+    "coordenates": "-32.685812, -58.889918",
+    "loc": "Urdinarrain",
+    "type": "opticas",
+    "state": "entreRios"
+  },
+  {
+    "id": 115,
+    "name": "Óptica Foto Óptica Ramírez",
+    "address": "Libertador 52",
+    "phone": "343-490-2238",
+    "coordenates": "-32.175079, -60.196747",
+    "loc": "General Ramírez",
+    "type": "opticas",
+    "state": "entreRios"
+  },
+  {
+    "id": 116,
+    "name": "Óptica Procolor",
+    "address": "Urquiza 99",
+    "phone": "345-491-1070",
+    "coordenates": "-31.625673, -58.504971",
+    "loc": "San Salvador",
+    "type": "opticas",
+    "state": "entreRios"
+  },
+  {
+    "id": 117,
+    "name": "Óptica Gamarra",
+    "address": "Toscanini 241",
+    "phone": "343-431-3389",
+    "coordenates": "-31.726936, -60.511156",
+    "loc": "Paraná",
+    "type": "opticas",
+    "state": "entreRios"
+  },
+  {
+    "id": 118,
+    "name": "Óptica Milena Bovier",
+    "address": "25 de mayo 1022",
+    "phone": "343-492-1055",
+    "coordenates": "-31.865317, -60.003438",
+    "loc": "Viale",
+    "type": "opticas",
+    "state": "entreRios"
+  },
+  {
+    "id": 119,
+    "name": "Optica Focus",
+    "address": "Calle 9 403",
+    "coordenates": "-29.116153, -59.659253",
+    "loc": "Avellaneda",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 120,
+    "name": "Óptica",
+    "address": "Av. Cordoba 2020",
+    "coordenates": "-31.447787, -60.935181",
+    "loc": "Esperanza",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 121,
+    "name": "Óptica Centro",
+    "address": "Habegger 856",
+    "coordenates": "-29.146208, -59.647080",
+    "loc": "Reconquista",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 122,
+    "name": "Óptica",
+    "address": "General Lopez 898",
+    "coordenates": "-29.148353, -59.647856",
+    "loc": "Reconquista",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 123,
+    "name": "Óptica Moon",
+    "address": "Urquiza 190",
+    "coordenates": "-30.362947, -61.919141",
+    "loc": "San Guillermo",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 124,
+    "name": "Óptica",
+    "address": "9 de Julio 390",
+    "coordenates": "-30.536488, -61.962272",
+    "loc": "Suardi",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 125,
+    "name": "Óptica Esperanza",
+    "address": "Av. Los Colonizadores 1315",
+    "phone": "3496-545-984",
+    "coordenates": "-31.449163, -60.928508",
+    "loc": "Esperanza",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 126,
+    "name": "Óptica Cresta",
+    "address": "Uriburu 553",
+    "phone": "3402-470-454",
+    "coordenates": "-33.191950, -60.470010",
+    "loc": "Fighiera",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 127,
+    "name": "Óptica Arévalo",
+    "address": "Roque Sáenz Peña 1254",
+    "phone": "3401-448-057",
+    "coordenates": "-32.368830, -61.353663",
+    "loc": "San Genaro",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 128,
+    "name": "Óptica Rosario",
+    "address": "Oroño 567",
+    "phone": "341-425-4667",
+    "coordenates": "-32.941110, -60.652441",
+    "loc": "Rosario",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 129,
+    "name": "Óptica La Mio Pía",
+    "address": "Ovidio Lagos 1143",
+    "phone": "341-421-2381",
+    "coordenates": "-32.946459, -60.662509",
+    "loc": "Rosario",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 130,
+    "name": "Óptica C. O. Integral",
+    "address": "Sarmiento 1162",
+    "phone": "3406-444-336",
+    "coordenates": "-31.896691, -61.858555",
+    "loc": "San Jorge",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 131,
+    "name": "Óptica Chabas",
+    "address": "Santa Fe 1665",
+    "phone": "3464-481-301",
+    "coordenates": "-33.245096, -61.363467",
+    "loc": "Chabas",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 132,
+    "name": "Óptica Schellhas",
+    "address": "Buenos Aires 2201",
+    "phone": "3464-423-216",
+    "coordenates": "-33.045126, -61.167178",
+    "loc": "Casilda",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 133,
+    "name": "Óptica Solares",
+    "address": "Roberto Ferrari 9",
+    "phone": "341-478-3702",
+    "coordenates": "-32.818088, -60.716412",
+    "loc": "Capitán Bermúdez",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 134,
+    "name": "Óptica La Óptica",
+    "address": "Belgrano 399",
+    "phone": "3402-420-511",
+    "coordenates": "-33.159089, -60.509843",
+    "loc": "Arroyo Seco",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 135,
+    "name": "Óptica Argentina Exp",
+    "address": "Perón 2193",
+    "phone": "341-498-5757",
+    "coordenates": "-33.025295, -60.624482",
+    "loc": "Villa G. Galvez",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 136,
+    "name": "Óptica Focus",
+    "address": "Zeballos 2191",
+    "phone": "341-213-4744",
+    "coordenates": "-32.952388, -60.655294",
+    "loc": "Rosario",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 137,
+    "name": "Óptica Closa",
+    "address": "Moreno 778",
+    "phone": "3402-491-404",
+    "coordenates": "-33.313777, -60.604352",
+    "loc": "Coronel Bogado",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 138,
+    "name": "Óptica Boano",
+    "address": "Calle 52 116",
+    "phone": "3462-452-191",
+    "coordenates": "-34.003462, -61.605706",
+    "loc": "Villa Cañas",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 139,
+    "name": "Óptica San Martín",
+    "address": "San Martín 180",
+    "phone": "3462-430-034",
+    "coordenates": "-33.750522, -61.962083",
+    "loc": "Venado Tuerto",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 140,
+    "name": "Óptica Joaquín",
+    "address": "Tucumán esq. Mitre",
+    "phone": "341-649-7790",
+    "coordenates": "-30.144051, -60.338362",
+    "loc": "Vera y Pintado",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 141,
+    "name": "Óptica Alfieri",
+    "address": "Caminos 829",
+    "phone": "3466-498-262",
+    "coordenates": "-32.352751, -60.942516",
+    "loc": "Monje",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 142,
+    "name": "Óptica Stylovision",
+    "address": "San Martín 273",
+    "phone": "2473-481-372",
+    "coordenates": "-33.791060, -61.210337",
+    "loc": "Whellwright",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 143,
+    "name": "Óptica Argentina",
+    "address": "Juan B. Justo 2137",
+    "phone": "341-492-1649",
+    "coordenates": "-33.025272, -60.622935",
+    "loc": "Villa Gob. Gálvez",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 144,
+    "name": "Óptica Dimensión",
+    "address": "Mendoza 1595",
+    "phone": "341-679-9933",
+    "coordenates": "-32.950422, -60.646255",
+    "loc": "Rosario",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 145,
+    "name": "Óptica Contacto Visual",
+    "address": "Garibaldi 646",
+    "phone": "3465-472-435",
+    "coordenates": "",
+    "loc": "Alcorta",
+    "type": "opticas",
+    "state": "santaFe"
+  },
+  {
+    "id": 146,
+    "name": "Óptica Bella Vista",
+    "address": "Tucumán 227",
+    "coordenates": "-27.784365, -64.261642",
+    "loc": "Santiago del Estero",
+    "type": "opticas",
+    "state": "santiagoDelEstero"
+  }
+]
