@@ -15,6 +15,11 @@ app.get('/', async (req, res) => {
   res.json(result)
 })
 
+app.get('/stores', async (req, res) => {
+  const [result] = await pool.query('select * from stores')
+  res.json(result)
+})
+
 app.get('/ping', async (req, res) => {
   const [result] = await pool.query(`select "hello world" as result`)
   res.send(result[0])
