@@ -11,7 +11,11 @@ const PORT = process.env.PORT
 
 app.use(express.urlencoded()).use(express.json()).use(cors())
 
-app.get('/', async (req, res) => {
+app.get('/', (req, res) => {
+  res.send("Try with '/users' or '/stores' !")
+})
+
+app.get('/users', async (req, res) => {
   const [result] = await pool.query('select * from users')
   res.json(result)
 })
