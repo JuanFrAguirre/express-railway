@@ -30,6 +30,11 @@ app.get('/ping', async (req, res) => {
   res.send(result[0])
 })
 
+app.get('/products', async (req, res) => {
+  const [result] = await pool.query('select * from products')
+  res.json(result)
+})
+
 app.listen(PORT, () =>
   console.log('---\n\nServer listening on PORT ' + PORT + '\n\n---'),
 )
