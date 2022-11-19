@@ -1,0 +1,12 @@
+GET http://localhost:3030/products
+
+###
+
+POST http://localhost:3030/products HTTP/1.1
+content-type: application/json
+
+{
+  "name": "Test Name",
+  "photoUrl": "http://google.com",
+  "description": "Test description"
+}
