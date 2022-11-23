@@ -14,18 +14,32 @@ CREATE TABLE stores (
   loc VARCHAR(50) NOT NULL,
   type VARCHAR(50) NOT NULL,
   state VARCHAR(50) NOT NULL,
-  brand VARCHAR(50) NULL
+  brand VARCHAR(50) NULL,
+  createdAt VARCHAR(50) NULL,
+  editedAt VARCHAR(50) NULL
 );
 
 create table products (
 	id int primary key auto_increment,
 	name varchar(50) not null,
   photoUrl varchar(100) not null,
-  description varchar(1000) not null
+  description varchar(1000) not null,
+  createdAt VARCHAR(50) NULL,
+  editedAt VARCHAR(50) NULL
 );
 
+drop table stores;
+drop table products;
+
 insert into products (
-	name, photoUrl, description)
+	name, photoUrl, description, createdAt)
 values (
-	'Paño de limpieza','https://picsum.photos.com/200/200','La mejor opcion para la limpieza de tus lentes.'
+	'Paño de limpieza','https://picsum.photos.com/200/200','La mejor opcion para la limpieza de tus lentes.',NOW()
 );
+
+select * from stores;
+
+select * from products;
+
+create database users;
+use users;
